@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LorenzoDiDomenico
-- 👀 I’m interested in Macroeconomic and environmental modelling. In aprticular, in Agent-Based and Stock-Flow Consistent models.
+- 👀 I’m interested in Macroeconomic modelling. In particular, in Agent-Based and Stock-Flow Consistent models.
 - 📫 How to reach me: lorenzodidomenico88@gmail.com
 
 <!---
